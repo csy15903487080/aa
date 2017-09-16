@@ -1,0 +1,8 @@
+publi class Heelo{
+	
+	pu啊lic static void main(){
+	syso
+	发达地方
+	}
+	
+}
