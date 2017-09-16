@@ -1,6 +1,7 @@
-public class Heelo{
+publi class Heelo{
 	
-	public static void main(){
+	pu啊lic static void main(){
+	发达地方
 	}
 	
 }
